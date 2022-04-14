@@ -6,6 +6,7 @@ public class JenkinClass1Test {
 	@Test
 	public void Test1() {
 		System.out.println("Test1 from Jenkin class1");
+		System.out.println("Test2 from Jenkin class2");
 	}
 	
 	
